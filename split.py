@@ -5,8 +5,8 @@ import re
 import sys
 
 # 👇 INPUT FILE NAME
-INPUT_FILE = "Twilight.m4b"
-OUTPUT_FOLDER = "Twilight_Chapters"
+INPUT_FILE = "Breaking Dawn.m4b"
+OUTPUT_FOLDER = "braking_down_Chapters"
 
 
 def sanitize_filename(name):
